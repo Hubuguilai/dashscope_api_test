@@ -104,6 +104,10 @@ vi .env # 编辑并填写你的密钥
 - Python 3.6+
 - requests 库
 
+## 许可协议
+
+本项目采用 MIT License，详见项目根目录的 `LICENSE` 文件。
+
 ## 文件说明
 
 - `test_dashscope_api.py` - 主测试脚本，验证API可用性
